@@ -1,0 +1,6 @@
+Hello, this is line 1.
+Line 2 includes a number: 42
+The final line of the first write operation.
+Now adding more content.
+Here's line 5.
+Final appended line.
